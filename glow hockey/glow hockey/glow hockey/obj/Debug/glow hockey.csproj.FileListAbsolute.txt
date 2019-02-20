@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Desktop\glow hockey\glow hockey\glow hockey\bin\Debug\glow hockey.exe.config
+C:\Users\LENOVO\Desktop\glow hockey\glow hockey\glow hockey\bin\Debug\glow hockey.exe
+C:\Users\LENOVO\Desktop\glow hockey\glow hockey\glow hockey\bin\Debug\glow hockey.pdb
+C:\Users\LENOVO\Desktop\glow hockey\glow hockey\glow hockey\obj\Debug\glow hockey.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\glow hockey\glow hockey\glow hockey\obj\Debug\glow_hockey.Form1.resources
+C:\Users\LENOVO\Desktop\glow hockey\glow hockey\glow hockey\obj\Debug\glow_hockey.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\glow hockey\glow hockey\glow hockey\obj\Debug\glow hockey.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\glow hockey\glow hockey\glow hockey\obj\Debug\glow hockey.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\glow hockey\glow hockey\glow hockey\obj\Debug\glow hockey.exe
+C:\Users\LENOVO\Desktop\glow hockey\glow hockey\glow hockey\obj\Debug\glow hockey.pdb
+C:\Users\LENOVO\source\repos\c# tekrar\glow hockey\glow hockey\glow hockey\bin\Debug\glow hockey.exe.config
+C:\Users\LENOVO\source\repos\c# tekrar\glow hockey\glow hockey\glow hockey\bin\Debug\glow hockey.exe
+C:\Users\LENOVO\source\repos\c# tekrar\glow hockey\glow hockey\glow hockey\bin\Debug\glow hockey.pdb
+C:\Users\LENOVO\source\repos\c# tekrar\glow hockey\glow hockey\glow hockey\obj\Debug\glow hockey.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\c# tekrar\glow hockey\glow hockey\glow hockey\obj\Debug\glow_hockey.Form1.resources
+C:\Users\LENOVO\source\repos\c# tekrar\glow hockey\glow hockey\glow hockey\obj\Debug\glow_hockey.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\c# tekrar\glow hockey\glow hockey\glow hockey\obj\Debug\glow hockey.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\c# tekrar\glow hockey\glow hockey\glow hockey\obj\Debug\glow hockey.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\c# tekrar\glow hockey\glow hockey\glow hockey\obj\Debug\glow hockey.exe
+C:\Users\LENOVO\source\repos\c# tekrar\glow hockey\glow hockey\glow hockey\obj\Debug\glow hockey.pdb
